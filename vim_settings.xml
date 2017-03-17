@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/ArrayUtil.java" timestamp="1489742472236">
-        <mark key="[" line="144" column="19" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/ArrayUtil.java" timestamp="1489744077305">
+        <mark key="[" line="171" column="2" />
+        <mark key="]" line="171" column="2" />
+        <mark key="." line="171" column="2" />
       </file>
       <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/Iterator.java" timestamp="1489598377347">
         <mark key="[" line="0" column="0" />
@@ -28,13 +28,22 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICBwdWJsaWMgaW50IFRvdGFsRmFjdG9yKGludCBtYXgpIHsKICAgICAgICBpbnQgdG90YWwgPSAwOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG1heC1tYXgvMjsgaSsrKSB7CiAgICAgICAgICAgIGlmIChtYXglaSA9PSAwKXsKICAgICAgICAgICAgICAgIHRvdGFsICs9IGk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBwdWJsaWMgaW50IFRvdGFsRmFjdG9yKGludCBtYXgpIHsKICAgICAgICBpbnQgdG90YWwgPSAwOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG1heC1tYXgvMjsgaSsrKSB7CiAgICAgICAgICAgIGlmIChtYXglaSA9PSAwKXsKICAgICAgICAgICAgICAgIHRvdGFsICs9IGk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRbXSByZXMgPSBuZXcgaW50W21heF07Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgdGF0YWwgPSAwOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIGQgaW50W10gdGVtcCA9IEFycmF5cy5jb3B5T2YocmVzLCBqKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGQgaW50W10gdGVtcCA9IEFycmF5cy5jb3B5T2YocmVzLCBqKTsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>public int fibonacciMax(int max) {
         if (max == 0 || max == 1) {
             return 1;
@@ -43,26 +52,17 @@
         }
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQl3aGlsZShpPGkrbGVuZ3RoKXsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CQlJdGVyYXRvciBhID0gbmV3IExpbmtlZExpc3RJdGVyYXRvcih0aGlzKTsKCQlMaW5rZWRMaXN0SXRlcmF0b3IgYiA9IG5ldyBMaW5rZWRMaXN0SXRlcmF0b3IodGhpcyk7CgkJTGlua2VkTGlzdEl0ZXJhdG9yIGMgPSBpdGVyYXRvcigpOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlpdGVyYXRvcigpOwoJfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uY29kaW5nLmJhc2ljOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uY29kaW5nLmJhc2ljOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uY29kaW5nLmJhc2ljOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
