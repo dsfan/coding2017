@@ -8,12 +8,30 @@
         <mark key="]" line="171" column="2" />
         <mark key="." line="171" column="2" />
       </file>
+      <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/litestruts/Struts.java" timestamp="1489822719286">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1489823118517">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/litestruts/LoginAction.java" timestamp="1489820801789">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/Iterator.java" timestamp="1489598377347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/List.java" timestamp="1489598383078">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/litestruts/StrutsTest.java" timestamp="1489820825445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -25,44 +43,46 @@
         <mark key="^" line="234" column="19" />
       </file>
       <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/ArrayList.java" timestamp="1489738037044" />
+      <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/litestruts/View.java" timestamp="1489820814311">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1489823118540">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICBwdWJsaWMgaW50IFRvdGFsRmFjdG9yKGludCBtYXgpIHsKICAgICAgICBpbnQgdG90YWwgPSAwOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG1heC1tYXgvMjsgaSsrKSB7CiAgICAgICAgICAgIGlmIChtYXglaSA9PSAwKXsKICAgICAgICAgICAgICAgIHRvdGFsICs9IGk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL0ZpbGUgZiA9IG5ldyBGaWxlKCJzdHJ1dHMueG1sIik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBwdWJsaWMgaW50IFRvdGFsRmFjdG9yKGludCBtYXgpIHsKICAgICAgICBpbnQgdG90YWwgPSAwOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG1heC1tYXgvMjsgaSsrKSB7CiAgICAgICAgICAgIGlmIChtYXglaSA9PSAwKXsKICAgICAgICAgICAgICAgIHRvdGFsICs9IGk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL0ZpbGUgZiA9IG5ldyBGaWxlKCJzdHJ1dHMueG1sIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSByZXMgPSBuZXcgaW50W21heF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50IHJvb3QgPSBmLmdldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdGF0YWwgPSAwOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5kb200ai5Eb2N1bWVudDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGQgaW50W10gdGVtcCA9IEFycmF5cy5jb3B5T2YocmVzLCBqKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>public int fibonacciMax(int max) {
-        if (max == 0 || max == 1) {
-            return 1;
-        } else {
-            return fibonacciMax(max - 2) + fibonacciMax(max - 1);
-        }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uY29kZXJpc2luZy5saXRlc3RydXRzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl3aGlsZShpPGkrbGVuZ3RoKXsK</text>
+        <text encoding="base64">cGFja2FnZSBjb20uY29kZXJpc2luZy5saXRlc3RydXRzOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQlJdGVyYXRvciBhID0gbmV3IExpbmtlZExpc3RJdGVyYXRvcih0aGlzKTsKCQlMaW5rZWRMaXN0SXRlcmF0b3IgYiA9IG5ldyBMaW5rZWRMaXN0SXRlcmF0b3IodGhpcyk7CgkJTGlua2VkTGlzdEl0ZXJhdG9yIGMgPSBpdGVyYXRvcigpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uY29kZXJpc2luZy5saXRlc3RydXRzOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlpdGVyYXRvcigpOwoJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uY29kZXJpc2luZy5saXRlc3RydXRzOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uY29kaW5nLmJhc2ljOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBwdWJsaWMgaW50IFRvdGFsRmFjdG9yKGludCBtYXgpIHsKICAgICAgICBpbnQgdG90YWwgPSAwOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG1heC1tYXgvMjsgaSsrKSB7CiAgICAgICAgICAgIGlmIChtYXglaSA9PSAwKXsKICAgICAgICAgICAgICAgIHRvdGFsICs9IGk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="-" type="4">
         <text />
