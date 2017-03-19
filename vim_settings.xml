@@ -16,11 +16,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Coding/IdeaProjects/untitled/src/Struts.java" timestamp="1489829776253">
-        <mark key="[" line="57" column="91" />
-        <mark key="]" line="57" column="88" />
-        <mark key="." line="57" column="88" />
-        <mark key="^" line="57" column="88" />
+      <file name="$USER_HOME$/Coding/IdeaProjects/untitled/src/Struts.java" timestamp="1489921781338">
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/ArrayUtil.java" timestamp="1489744077305">
         <mark key="[" line="171" column="2" />
@@ -42,7 +42,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Coding/IdeaProjects/untitled/struts.xml" timestamp="1489828846483">
+      <file name="$USER_HOME$/Coding/IdeaProjects/untitled/struts.xml" timestamp="1489922162184">
         <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Coding/Github/编程提高班/coding2017/group22/592864103/LinkedList.java" timestamp="1489737130204">
@@ -65,38 +65,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBub2RlUmVzdWx0MiA9IG5vZGVMaXN0QWN0aW9uLml0ZW0oMikuZ2V0QXR0cmlidXRlcygpLmdldE5hbWVkSXRlbSgiZmFpbCIpOwo=</text>
+        <text encoding="base64">IAkJQ2xhc3MgY2x6ID0gQ2xhc3MuZm9yTmFtZShuYW1lTG9naW4pCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>D.getAttributes().getNamedItem(&quot;name&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAkJQ2xhc3MgY2x6ID0gQ2xhc3MuZm9yTmFtZShuYW1lTG9naW4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgID0gaXRlbUFjdGlvbi5nZXRBdHRyaWJ1dGVzKCkuZ2V0TmFtZWRJdGVtKCJuYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBhY05hbWUgPSBpdGVtQWN0aW9uLmdldEF0dHJpYnV0ZXMoKS5nZXROYW1lZEl0ZW0oIm5hbWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBub2RlUmVzdWx0NSA9IG5vZGVMaXN0QWN0aW9uLml0ZW0oNCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGIgPSBpdGVtLmdldE5vZGVWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBub2RlUmVzdWx0NCA9IG5vZGVMaXN0QWN0aW9uLml0ZW0oMyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGEgPSBpdGVtLmdldE5vZGVOYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBub2RlUmVzdWx0MiA9IG5vZGVMaXN0QWN0aW9uLml0ZW0oMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBmaXJzdENoaWxkID0gcm9vdC5nZXRGaXJzdENoaWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc1ZhbHVlMSA9IG5vZGVSZXN1bHQxLmdldEF0dHJpYnV0ZXMoKS5nZXROYW1lZEl0ZW0oIm5hbWUiKS5nZXROb2RlVmFsdWUoKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>String firstName = firstChild.getNodeName();
-            String firstValue = firstChild.getNodeValue();</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBub2RlQWN0aW9uOCA9IG5vZGVMaXN0Lml0ZW0oOCk7Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRG9jdW1lbnRCdWlsZGVyIGRiZiA9IERvY3VtZW50QnVpbGRlckZhY3RvcnkubmV3SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBub2RlQWN0aW9uMCA9IG5vZGVMaXN0Lml0ZW0oMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmID0gbmV3IEZpbGUoInN0cnV0cy54bWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBub2RlQWN0aW9uNyA9IG5vZGVMaXN0Lml0ZW0oNyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>D.getAttributes().getNamedItem(&quot;name&quot;);</text>
+        <text>return null;</text>
       </register>
     </registers>
     <search>
