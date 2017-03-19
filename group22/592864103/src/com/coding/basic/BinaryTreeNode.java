@@ -1,3 +1,5 @@
+package com.coding.basic;
+
 public class BinaryTreeNode {
 
 	private Integer data;

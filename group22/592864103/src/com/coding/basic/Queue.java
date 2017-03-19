@@ -1,3 +1,5 @@
+package com.coding.basic;
+
 public class Queue {
 
 	LinkedList elementData = new LinkedList();
