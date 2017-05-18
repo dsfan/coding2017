@@ -1,3 +1,5 @@
+package com.coding.basic;
+
 public class LinkedList implements List {
 
 	private Node head;
@@ -9,7 +11,9 @@ public class LinkedList implements List {
 			head.data = o;
 			head.next = null;
 		} else {
-			Node cursor = head;
+			//Node cursor = head;
+			Node cursor = new Node();
+			cursor = head;
 			for (int i = 0; i < size(); i++) {
 				cursor = cursor.next;
 			}
@@ -33,7 +37,9 @@ public class LinkedList implements List {
 			head.data = o;
 			head.next = temp;
 		} else {
-			Node cursor = head;
+			//Node cursor = head;
+			Node cursor = new Node();
+			cursor = head;
 			Node temp = new Node();
 			for (int i = 0; i < index - 1; i++) {
 				cursor = cursor.next;
@@ -49,7 +55,9 @@ public class LinkedList implements List {
 			System.out.println("超出数组长度！");
 			return null;
 		} else {
-			Node cursor = head;
+			//Node cursor = head;
+			Node cursor = new Node();
+			cursor = head;
 			for (int i = 0; i < index; i++) {
 				cursor = cursor.next;
 			}
@@ -68,7 +76,9 @@ public class LinkedList implements List {
 			head = head.next;
 			return temp;
 		} else {
-			Node cursor = head;
+			//Node cursor = head;
+			Node cursor = new Node();
+			cursor = head;
 			for (int i = 0; i < index - 1; i++) {
 				cursor = cursor.next;
 			}
@@ -83,7 +93,9 @@ public class LinkedList implements List {
 
 
 	public int size() {
-		Node cursor = head;
+		//Node cursor = head;
+		Node cursor = new Node();
+		cursor = head;
 		int size = 0;
 		while (cursor != null) {
 			cursor = cursor.next;
@@ -126,7 +138,9 @@ public class LinkedList implements List {
 
 	public Object removeLast() {
 		Node temp = new Node();
-		Node cursor = head;
+		//Node cursor = head;
+		Node cursor = new Node();
+		cursor = head;
 		for (int i = 0; i < size() - 2; i++) {
 			cursor = cursor.next;
 		}
@@ -156,10 +170,12 @@ public class LinkedList implements List {
 
 		@Override
 		public Object next() {
+			Object o = list.get(pos);
 			pos++;
-			return list.get(pos);
+			return o;
 		}
 	}
+
 
 	private static class Node {
 		Object data;
@@ -172,7 +188,11 @@ public class LinkedList implements List {
 	 * 例如链表为 3->7->10 , 逆置后变为  10->7->3
 	 */
 	public void reverse() {
-
+		LinkedList buffer = new LinkedList();
+		Iterator iterator = iterator();
+		while(iterator.hasNext()){
+			buffer.addFirst(iterator.next());
+		}
 	}
 
 	/**
@@ -181,7 +201,10 @@ public class LinkedList implements List {
 	 * 如果list = 2->5->7->8->10 ,删除以后的值为7,8,10
 	 */
 	public void removeFirstHalf() {
-
+		int sizeToCut = size() - size()/2;
+		for (int i =1;i<=sizeToCut;i++){
+			this.removeFirst();
+		}
 	}
 
 	/**
@@ -191,7 +214,13 @@ public class LinkedList implements List {
 	 * @param length
 	 */
 	public void remove(int i, int length) {
-
+		if(i+length>size()){
+			System.out.println("数组越界，请检查输入");
+		}else{
+		    for(int k=i;k<i+length;k++){
+		    	this.remove(k);
+			}
+		}
 	}
 
 	/**
@@ -204,6 +233,7 @@ public class LinkedList implements List {
 	 * @param list
 	 */
 	public static int[] getElements(LinkedList list) {
+
 		return null;
 	}
 
